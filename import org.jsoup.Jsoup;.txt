@@ -1,0 +1,39 @@
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        try {
+            String csvFilePath = "C:\\Users\\geova\\IdeaProjects\\AnalizingAnime\\src\\resources\\anime_data.csv";
+            Document doc = Jsoup.connect("https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood").get();
+
+            Elements newsHeadlines = doc.select("#mp-itn b a");
+            BufferedWriter writer = new BufferedWriter(new FileWriter(csvFilePath));
+
+            // Encabezado del archivo CSV
+            writer.write("Title, URL");
+
+            for (Element headline : newsHeadlines) {
+                String title = headline.attr("title");
+                String url = headline.absUrl("href");
+
+                // Escapa comas en el título si es necesario
+                title = title.replace(",", " ");
+
+                // Escribir los datos en el archivo CSV
+                writer.write(title + ", " + url);
+                writer.newLine();
+            }
+
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+}

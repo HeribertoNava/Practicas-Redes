@@ -1,0 +1,19 @@
+DECLARE
+   CURSOR duplicado IS
+      SELECT department_id,
+             department_name,
+             location_id,
+             MAX(created_date) AS max_created_date
+        FROM departments
+       GROUP BY department_name, location_id
+       HAVING COUNT(*) > 1;
+BEGIN
+   FOR i IN duplicado LOOP
+      DELETE FROM departments
+       WHERE department_id != i.department_id
+         AND department_name = i.department_name
+         AND location_id = i.location_id;
+   END LOOP;
+   COMMIT;
+END;
+/

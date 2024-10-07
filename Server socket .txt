@@ -1,0 +1,34 @@
+Server socket 
+Socket 
+
+
+servicios TCP
+Servicios UDP
+
+
+Protocolos Http
+
+en progrmacion
+
+
+JavaFx
+
+
+instalar
+
+Stage = escenario
+Scene = ecena  -> la ecena puede ser la pantalla 
+Nodo = Actor -> puede ser un botón 
+
+
+MVC
+
+Modelo View Controler 
+
+Modelo es igual a las clases que interpreta o se comunica con la base de datos
+
+View -> es igual a la interfaz gráfica 
+
+Controler -> es igual al backend
+
+

@@ -1,0 +1,47 @@
+access-list access-list-number {deny | permit | remark text} protocol source source-wildcard [operator { port }] destination destination-wildcard [operator { port ]] [established] [log] 
+
+
+access-list 100 permit tcp any any eq www
+access-list 100 permit tcp any any eq 80
+
+access-list 101 deny tcp host 192.168.20.2 host 192.168.20.2 eq 80
+
+ip access-grouo 101 out
+
+access-list permit ip any any
+
+enable secret cisco123
+
+line vty 0 4
+
+access-class 5 in
+
+access-list 5 permit host 192.168.10.3
+
+1-99 son ACLs estándar 
+100-199 son ACLs extendidas
+
+
+
+-----------192.168.10/24 no ping a PC1
+access-list 20 deny 192.168.10.0 0.0.0.255
+access-list 20 permit any
+int g0/1
+ip access-group 20 out
+
+
+-----------PC1 es la unica que puede hacer telnet a R1
+access-list 3 permit host 192.168.20.2
+username cisco password cisco123
+line vty 0 4
+login local
+enable secret cisco123
+access-class 3 in
+
+access-list 25 deny host 192.168.10.2
+access-list 25 permit any
+int g0/1
+ip access-group 25 out
+
+
+

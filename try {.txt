@@ -1,0 +1,70 @@
+/*   try {
+            String baseUrl = "https://www3.animeflv.net/anime/dragon-ball-super";
+            String startUrl = baseUrl + "/anime/dragon-ball-super";
+            int maxIterations = 5;
+            int linksVisited = 0;
+
+            Set<String> visitedLinks = new HashSet<>(); // Para rastrear los enlaces visitados
+
+            for (int i = 0; i < maxIterations; i++) {
+                System.out.println(i);
+                Document doc = Jsoup.connect(startUrl).get();
+
+                visitedLinks.add(startUrl); // Agrega la URL actual a los enlaces visitados
+
+                // Encuentra y selecciona el título de la página
+                Element titleElement = doc.select("title").first();
+                if (titleElement != null) {
+                    String pageTitle = titleElement.text();
+                    log("Título de la página #%d: %s", i + 1, pageTitle);
+                } else {
+                    log("Título de la página #%d no encontrado.", i + 1);
+                }
+
+                // Encuentra y selecciona el fragmento HTML deseado
+                Element navElement = doc.select("nav.Nvgnrs").first();
+                Element descriptionElement = doc.select("div.Description").first();
+
+                if (descriptionElement != null) {
+                    // Obtiene el texto dentro del elemento <p> dentro de <div class "Description">
+                    String descriptionText = descriptionElement.select("p").text();
+                    log("Descripción de la página #%d:\n%s", i + 1, descriptionText);
+                } else {
+                    log("Fragmento HTML con la descripción no encontrado en la página #%d.", i + 1);
+                    break;
+                }
+
+                if (navElement != null) {
+                    // Encuentra el primer enlace en el fragmento HTML
+                    Element firstLink = navElement.select("a[href]").first();
+
+                    if (firstLink != null) {
+                        // Construye la URL completa utilizando el enlace relativo
+                        String href = firstLink.attr("href");
+
+                        if (visitedLinks.contains(baseUrl + href)) {
+                            log("Ya se ha visitado este enlace anteriormente. Deteniendo.");
+                            break;
+                        } else {
+                            startUrl = baseUrl + href;
+                            linksVisited++;
+                        }
+                    } else {
+                        log("Enlace no encontrado en la página #%d.", i + 1);
+                        break;
+                    }
+                } else {
+                    log("Fragmento HTML con enlaces no encontrado en la página #%d.", i + 1);
+                    break;
+                }
+            }
+
+            log("Número total de enlaces visitados: %d", linksVisited);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void log(String msg, Object... vals) {
+        System.out.println(String.format(msg, vals));
+    }*/

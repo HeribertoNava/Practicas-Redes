@@ -1,0 +1,39 @@
+Paralelismo en Java:
+El paralelismo en Java se refiere a la ejecución simultánea de tareas en múltiples hilos de ejecución o procesos. Java proporciona una API de concurrencia en su biblioteca estándar a través de la clase java.util.concurrent, que incluye estructuras de datos como ExecutorService, ThreadPoolExecutor, y ForkJoinPool. Estas clases permiten la creación y administración de hilos de manera eficiente. El paralelismo se usa típicamente para acelerar la ejecución de tareas que se pueden dividir en partes independientes y ejecutarlas simultáneamente. Por ejemplo, se puede dividir una tarea en varias partes y asignar cada parte a un hilo para que se ejecute en paralelo, lo que puede mejorar el rendimiento de la aplicación en sistemas multiprocesador.
+
+Concurrencia en Java:
+La concurrencia en Java se refiere a la coordinación y administración de múltiples hilos para lograr que trabajen de manera ordenada y segura en un entorno compartido. Java proporciona soporte para la concurrencia a través de las palabras clave synchronized y volatile, así como las clases y interfaces como Lock, Semaphore, y CountDownLatch. La concurrencia se utiliza cuando se tienen tareas que pueden ejecutarse de forma independiente, pero es necesario garantizar que los hilos no entren en conflicto al acceder y modificar datos compartidos. La concurrencia se utiliza para evitar condiciones de carrera y garantizar la coherencia de los datos compartidos entre hilos.
+
+
+problemas de proceso en paralismo:
+
+1: proceso i/o bound
+Estos procesos suelen estar esperando datos desde o hacia dispositivos de entrada/salida, como discos duros, teclados, redes, etc.
+La CPU se libera con frecuencia mientras el proceso espera que se complete la operación de E/S.
+Suelen ser procesos más lentos, ya que gran parte de su tiempo se gasta en la espera de E/S.
+
+dependemos de otro proceso
+
+2: proceso cpu bound
+Estos procesos requieren un uso intensivo de la CPU y, por lo tanto, consumen más recursos de la CPU.
+No pasan mucho tiempo esperando datos de entrada/salida, ya que están ocupados realizando cálculos o procesos intensivos en la CPU.
+Suelen ser procesos más rápidos en términos de rendimiento, pero pueden hacer que el sistema se sienta más lento si monopolizan la CPU.
+
+cuando neceistamos procesamiento de calculos
+
+un ejemplo seria: 
+
+El problema del viajero
+
+
+
+realizar en la pagina de imbd 
+resumen reparto y calificacion de la serie.
+empezaras en un anime, y saltaras dentro de genero
+archivo csv de los animes visitados 
+
+class="anime__details__text"
+<p class="tab sinopsis"> para encontrar la sinpsis </p>
+
+class="anime__details__title"
+<h3>Title del anime</h3>

@@ -1,0 +1,32 @@
+TIPOS DE NAT
+-
+Nat estatico privada - publica
+
+Nat dinamico pool de pridadas - pool publicas
+
+Nat sobrecarga 
+
+es exlusivo de ipv4
+
+tenemos que tener en cuenta las listas de acceso.
+
+ip nat inside sorce static 192.168.10.254 209.165.201.5 
+
+--a lo privado
+interface serial 0/1/0
+ip address 192.168.1.2 255.255.255.255.252
+ip nat inside exit
+-- a lo publico
+ip address 209.165.200.1 255.255.255.252
+ip nat outside
+
+
+
+Dinamico 
+
+ip nat nat-pool1 209.165.200.226 209.165.200.240 netmask 255.255.255.255.224
+
+
+access-list 1 permit 192.168.0.0 0.0.255.255
+
+

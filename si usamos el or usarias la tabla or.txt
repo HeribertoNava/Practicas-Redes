@@ -1,0 +1,15 @@
+si usamos el or usarias la tabla original
+si usamos el and usamos el tabla temporal
+
+
+Temporalfile
+
+
+Hacer mi codigo como sandwitch |pan|  cosas  |pan|
+
+Esto quiere decir que voy a colocar un |select| algo |from| |;|
+
+Usando colas y filas para realizar mi código.
+
+
+PIENSA EN GRANDE TONTOIK.

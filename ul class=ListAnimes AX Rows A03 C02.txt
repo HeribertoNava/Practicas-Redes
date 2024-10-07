@@ -1,0 +1,434 @@
+<ul class="ListAnimes AX Rows A03 C02 D02">
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/spy-x-family-season-2">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3894.jpg" alt="Spy x Family Season 2"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Spy x Family Season 2</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Spy x Family Season 2</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Segunda temporada de Spy x Family</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/spy-x-family-season-2">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/saihate-no-paladin-tetsusabi-no-yama-no-ou">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3893.jpg" alt="Saihate no Paladin: Tetsusabi no Yama no Ou"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Saihate no Paladin: Tetsusabi no Yama no Ou</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Saihate no Paladin: Tetsusabi no Yama no Ou</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Segunda temporada de Saihate no Paladin</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/saihate-no-paladin-tetsusabi-no-yama-no-ou">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/bokura-no-ameiro-protocol">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3901.jpg" alt="Bokura no Ameiro Protocol"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Bokura no Ameiro Protocol</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Bokura no Ameiro Protocol</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Shun Tokinoya es un estudiante de segundo de bachillerato que trabaja en la cafetería de eSports FOX ONE. Luego de perder a su padre en un accidente, decide dejar de lado la que es su pasión por los videojuegos. Cuando descubre que la cafetería tiene muchas deudas, decide olvidar su sentimiento de culpa y formar un equipo para competir en el cam...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/bokura-no-ameiro-protocol">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/kibou-no-chikara-otona-precure-23">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3902.jpg" alt="Kibou no Chikara: Otona Precure '23"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Kibou no Chikara: Otona Precure '23</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Kibou no Chikara: Otona Precure '23</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p></p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/kibou-no-chikara-otona-precure-23">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/kikansha-no-mahou-wa-tokubetsu-desu">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3897.jpg" alt="Kikansha no Mahou wa Tokubetsu desu"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Kikansha no Mahou wa Tokubetsu desu</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Kikansha no Mahou wa Tokubetsu desu</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>En una tierra dominada por el Dominio de las Sombras, la humanidad ha sido eliminada casi por completo. Para rescatar su planeta de la perdición inminente, seis valientes héroes libran una peligrosa batalla... pero fracasan. Sin embargo, aparece un nuevo rayo de esperanza cuando Desir, uno de los últimos magos, viaja sin saber cómo 13 años atr...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/kikansha-no-mahou-wa-tokubetsu-desu">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/arknights-fuyukomori-kaerimichi">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3888.jpg" alt="Arknights: Fuyukomori Kaerimichi"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Arknights: Fuyukomori Kaerimichi</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Arknights: Fuyukomori Kaerimichi</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Segunda temporada de Arknights</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/arknights-fuyukomori-kaerimichi">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/tate-no-yuusha-no-nariagari-season-3">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3885.jpg" alt="Tate no Yuusha no Nariagari Season 3"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Tate no Yuusha no Nariagari Season 3</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Tate no Yuusha no Nariagari Season 3</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Tercera temporada de Tate no Yuusha no Nariagari</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/tate-no-yuusha-no-nariagari-season-3">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/hametsu-no-oukoku">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3889.jpg" alt="Hametsu no Oukoku"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Hametsu no Oukoku</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Hametsu no Oukoku</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>En el pasado, las brujas eran respetadas por la sabiduría y la magia que otorgaban a los humanos. Con el auge de la era del Gear Expansion, la nueva comunidad científica dictaminó que las brujas eran enemigas de la sociedad que impedían su progreso. Así comenzó la caza de las brujas, incluyendo una que había sido mentora de un niño humano l...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/hametsu-no-oukoku">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/goblin-slayer-ii">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3886.jpg" alt="Goblin Slayer II"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Goblin Slayer II</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Goblin Slayer II</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Segunda temporada de Goblin Slayer</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/goblin-slayer-ii">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/undead-unluck">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3891.jpg" alt="Undead Unluck"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Undead Unluck</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Undead Unluck</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Tras leer la conclusión de su serie de manga favorita, Fuuko Izumo se siente finalmente preparada para poner fin a su existencia. Durante los últimos 10 años, Fuuko se ha visto afectada por una condición que trae consigo una desgracia extrema para cualquiera que la toque. Esto ha tenido un efecto drástico en su entorno, e incluso ha provocado ...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/undead-unluck">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/under-ninja">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3883.jpg" alt="Under Ninja"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Under Ninja</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Under Ninja</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>En las sombras de Japón se libra una batalla encubierta. Todavía existen unos 200 000 ninjas que llevan a cabo misiones mortales como organización secreta, la Inteligencia Nacional de NINJA, o NIN por sus siglas, hasta que surge un contrincante: UNDER NINJA. Conocidos bajo las siglas UN, estos ninjas se oponen a NIN a cada paso que dan. Uno de l...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/under-ninja">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/kamierabi">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3882.jpg" alt="Kamierabi"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Kamierabi</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Kamierabi</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Ha dado comienzo el battle royale por la divinidad. Unos estudiantes tendrán que usar sus poderes únicos para competir entre ellos por el ansiado título de "Dios". Pero a medida que cada combate se vuelve más cruento que el anterior, se forman alianzas y se producen traiciones. ¿Quién saldrá victorioso y reclamará su trono divino?</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/kamierabi">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3880.jpg" alt="Kage no Jitsuryokusha ni Naritakute! 2nd Season"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Kage no Jitsuryokusha ni Naritakute! 2nd Season</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Kage no Jitsuryokusha ni Naritakute! 2nd Season</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Segunda temporada de Kage no Jitsuryokusha ni Naritakute! </p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/kage-no-jitsuryokusha-ni-naritakute-2nd-season">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/bullbuster">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3878.jpg" alt="Bullbuster"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Bullbuster</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Bullbuster</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Unas misteriosas criaturas han aterrorizado a los habitantes de una isla, forzándolos a huir del que había sido su próspero hogar. Ante la falta de fondos del gobierno para erradicar a los monstruos, Tajima compra la única compañía de construcción que queda y la usa como base para encargarse de solucionar el problema. Por suerte, el brillant...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/bullbuster">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/tokyo-revengers-tenjikuhen">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3877.jpg" alt="Tokyo Revengers: Tenjiku-hen"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Tokyo Revengers: Tenjiku-hen</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Tokyo Revengers: Tenjiku-hen</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Terrcera temporada de Tokyo Revengers</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/tokyo-revengers-tenjikuhen">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/seiken-gakuin-no-makentsukai">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3873.jpg" alt="Seiken Gakuin no Makentsukai"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Seiken Gakuin no Makentsukai</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Seiken Gakuin no Makentsukai</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>En la historia de fantasía, el rey demonio Leonis se encerró durante 1,000 años para prepararse para la batalla final, pero cuando despertó, se encontró en el cuerpo de un niño de diez años. Una hermosa joven llamada Riselia, de la Academia de la Espada Sagrada, le dice entonces: “¿Por qué estabas encerrado en un lugar así? Todo está b...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/seiken-gakuin-no-makentsukai">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/shy">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3870.jpg" alt="Shy"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Shy</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Shy</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Estando el mundo al borde de una tercera Guerra Mundial, surgieron superhéroes. Dotados de poderes extraordinarios, su aparición marcó el inicio de una era de paz global. Cada héroe escogió un país para habitar, proteger y servir a sus ciudadanos. Shy es la heroína de Japón, dotada de una fuerza sobrehumana. ¿Su mayor adversario? Su propia...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/shy">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/toaru-ossan-no-vrmmo-katsudouki">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3872.jpg" alt="Toaru Ossan no VRMMO Katsudouki"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Toaru Ossan no VRMMO Katsudouki</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Toaru Ossan no VRMMO Katsudouki</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Taichi Tanaka es un hombre cualquiera de 38 años al que le gusta disfrutar de los videojuegos. Un día comienza en un nuevo juego multijugador online de realidad virtual llamado One More Free Life Online y decide llamar Earth a su personaje. Al contrario que sus compañeros jugadores, él decide dedicarse a dominar las habilidades más humildes de...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/toaru-ossan-no-vrmmo-katsudouki">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/boushoku-no-berserk">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3867.jpg" alt="Boushoku no Berserk"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Boushoku no Berserk</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Boushoku no Berserk</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Fate es un guardia del castillo en un mundo en que las habilidades lo son todo, pero él recibió una llamada Gula cuya única utilidad es darle hambre, con lo que el joven lleva una vida miserable. Un día unos bandidos se infiltran en el castillo y el mundo de Fate cambiará de golpe. Esta es la historia de cómo un joven al que ridiculizaban por...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/boushoku-no-berserk">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3865.jpg" alt="Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>"¿Cuándo fue la última vez que jugué un juego que no fuera una basura?" Este es un mundo en el futuro cercano donde los juegos que usan pantallas se consideran retro, y muchos juegos de realidad virtual no llegan a un mínimo de calidad: son los llamados "juegos basura". A aquellos que dedican sus vidas a completar estos juegos se les llama "ca...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/shangrila-frontier-kusoge-hunter-kamige-ni-idoman-to-su">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/megumi-no-daigo-kyuukoku-no-orange">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3860.jpg" alt="Megumi no Daigo: Kyuukoku no Orange"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Megumi no Daigo: Kyuukoku no Orange</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Megumi no Daigo: Kyuukoku no Orange</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>Tres jóvenes bomberos aspiran a convertirse en miembros del cuerpo de rescate especial conocido como "Orange". Para ello, los tres deben pasar las pruebas preliminares en las que les ha tocado el instructor más duro que había y que les hará sudar para lograr su objetivo.</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/megumi-no-daigo-kyuukoku-no-orange">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/ragna-crimson">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3862.jpg" alt="Ragna Crimson"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Ragna Crimson</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Ragna Crimson</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>En esta fantasía oscura llena de acción, la humanidad vive bajo la amenaza de ser aniquilada por dragones inmensamente poderosos. El cazador de dragones Ragna se embarca en una búsqueda de venganza para eliminar esa amenaza de una vez por todas. Los cazadores de dragones son guerreros armados con armas especiales de plata que matan a sus presas ...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/ragna-crimson">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-srank-ni-natteta">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3857.jpg" alt="Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta"></figure>
+                                <span class="Type tv">Anime</span>
+                            </div>
+                            <h3 class="Title">Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta</strong></div>
+                            <p><span class="Type tv">Anime</span> <span class="Vts fa-star">0.0</span></p>
+                            <p>La vida de un aventurero no siempre es de color de rosa, y Belgrieve lo descubre de la forma más dura cuando en un difícil encuentro poco después de haber partido a buscar fama y fortuna, pierde una pierna, y con ello la opción de perseguir sus sueños. Pese a todo, el destino tiene una sorpresa reserva para este ahora aventurero retirado. Un d...</p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-srank-ni-natteta">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                            <li>
+                    <article class="Anime alt B">
+                        <a href="/anime/one-piece-film-red">
+                            <div class="Image fa-play-circle-o">
+                                <figure><img src="https://animeflv.net/uploads/animes/covers/3855.jpg" alt="One Piece Film: Red"></figure>
+                                <span class="Type movie">Película</span>
+                            </div>
+                            <h3 class="Title">One Piece Film: Red</h3>
+                        </a>
+                        <div class="Description">
+                            <div class="Title"><strong>One Piece Film: Red</strong></div>
+                            <p><span class="Type movie">Película</span> <span class="Vts fa-star">0.0</span></p>
+                            <p></p>
+                            <span class="Flwrs fa-user"><span>0</span> Seguidores</span>
+                            <a class="Button Vrnmlk" href="/anime/one-piece-film-red">VER ANIME</a>
+                        </div>
+                    </article>
+                </li>
+                    </ul>

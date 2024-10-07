@@ -1,0 +1,9 @@
+Vectores de instancia 
+EIGRP
+RIP 
+
+regularmente consumen mas recuros
+esta lo que hace es enviar datos cada cierto tiempo
+
+distancia adminsitraiva 
+costo

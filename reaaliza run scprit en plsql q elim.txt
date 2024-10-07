@@ -1,0 +1,2 @@
+reaaliza run scprit en plsql q elimine los registros de la tabla deparments
+para usando un bloque de codigo anonimo con un cursor que encuentre reguistros repetidos entre campos DEPARMENT_NAME y LOCATION_ID dejando solo el registro con el DEPARTMENT_ID mas reciente

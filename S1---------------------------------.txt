@@ -1,0 +1,137 @@
+S1-------------------------------------------------
+vlan 999
+name native
+vlan 100
+name admin
+vlan 500
+name c
+
+int range f0/1-2
+channel-protocol lacp
+channel-group 1 mode active
+no shutdown
+exit
+
+int g0/1
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 100,500,999
+
+int range f0/1-2
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 100,500,999
+
+interface port-channel 1
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 100,500,999
+
+interface vlan100
+ip address 10.0.96.2 255.255.248.0
+ip default-gateway  10.0.96.1
+
+S2-------------------------------------------------
+vlan 999
+name native
+vlan 100
+name admin
+vlan 500
+name c
+
+int g0/1
+switchport mode access
+switchport access vlan 500
+
+int range f0/1-2
+channel-protocol lacp
+channel-group 1 mode active
+no shutdown
+exit
+
+int range f0/1-2
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 100,500,999
+
+interface port-channel 1
+switchport mode trunk
+switchport trunk native vlan 999
+switchport trunk allowed vlan 100,500,999
+
+interface vlan100
+ip address 10.0.96.3 255.255.248.0
+ip default-gateway 10.0.96.1
+
+
+R1-------------------------------------------------------
+int g0/0
+no shut
+ip add 10.0.0.1 255.255.192.0
+
+router eigrp 2446
+no auto-summaryrp
+
+network 10.0.0.0
+
+int s0/0/0
+no shut
+ip add 10.0.104.129 255.255.255.252
+
+
+R2----------------
+router eigrp 2446
+no auto-summary
+
+network 10.0.104.128
+network 10.0.104.132
+
+int s0/0/0
+no shut
+ip add  10.0.104.130 255.255.255.252
+
+int s0/0/1
+no shut
+ip add  10.0.104.133 255.255.255.252
+
+R3-------------------------------------------------------
+int g0/1
+no shut
+
+router eigrp 2446
+no auto-summary
+
+
+network 10.0.64.0
+network 10.0.96.0
+network 10.0.104.0
+
+int s0/0/1
+no shut
+ip add 10.0.104.134 255.255.255.252
+
+interface GigabitEthernet0/1.999
+encapsulation dot1Q 999 native
+ip address 10.0.104.1 255.255.255.128
+
+interface GigabitEthernet0/1.100
+encapsulation dot1Q 100
+ip address 10.0.96.1 255.255.248.0
+exit
+
+interface GigabitEthernet0/1.500
+encapsulation dot1Q 500
+ip address  10.0.64.1 255.255.224.0
+exit
+
+------------------------------------------------------------
+PC Karina S2
+10.0.64.2
+255.255.224.0
+10.0.64.1
+
+
+PC Carlos S1
+10.0.0.2
+255.255.192.0
+10.0.0.1

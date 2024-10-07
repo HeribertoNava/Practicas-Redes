@@ -1,0 +1,91 @@
+Que significa tener <
+
+Synchronizacion de los datos
+porque no estan sincronizados es porque uno va a dejar un valor y otro tomara el valor que tiene
+
+one 1
+	1	
+two 2
+
+
+
+
+para las varibales atomicas.
+
+tengo que estar seguro de el resultado de una variable 
+
+
+
+v get() ---> generica
+
+boolean compareAndSet(v expectedValue, V newValue)----> valor esperado
+
+usar una varibale atomica no significa que voy a obtener el valor.
+
+solo se tiliza cuando se el valor que quiero
+
+
+
+[ EJEMPLO DEL POLLO ]
+
+ASynchron
+
+Cuando me voy a meter a bañar y coloco el agua.
+							yo me meto a bañar con agua de pollo
+Mi mamá llega y coloca un pollo, despues lo saca 
+
+Synchron
+
+Coloco agua en la estufa, cuando voy por algo.
+								hora hay dos ollas trabajando una el pollo y otra calentado el agua aparte cada una 
+Mi madre Toma la misma olla y la pega sin cambiar mi olla.
+
+
+
+Synchronized
+
+se implementa el Synchronized para obligar a que uno espere el proceso del otro.
+
+esto puede hacer que tarde un poco mas y gaste un poco mas de recuersos.
+
+
+
+Collections :
+
+son arrays como hashmap list set 
+
+diferencias entre list y set 
+
+list permite repeticones de datos y set no permite esto.
+
+una lista es inmutable no puede eumentar su tamaño.
+
+como aumentar el tamaño de un array 
+
+creado un axuiliar  
+
+Array[2][;
+auxA [Array.lengh()+1];
+
+
+a esto se le podria imaginar como el metodo de modifyList
+
+
+pero modifyCopyOnWriteArray lo que hace es que utliza listas enlazados con nodos, esto quiere decir que se pueden aumtar el tamaño sin problemas.
+
+
+
+
+Programación para red 
+
+existen varios protocolos de internet
+
+
+172.20.10.3
+
+
+
+
+
+
+

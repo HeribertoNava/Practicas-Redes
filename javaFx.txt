@@ -1,0 +1,16 @@
+javaFx
+
+
+Principales cosas.
+
+debes exteneder de Application {
+
+}
+
+
+esto es necesario.
+
+
+
+despues puedes realizar botones con coordenadas
+

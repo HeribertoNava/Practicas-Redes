@@ -1,0 +1,12 @@
+show cdp
+no cdp run
+cdp run
+interface g0/0
+cdp enable 
+no cdp enable
+show cdp neightbores
+show cdp interface
+username cisco pass ciso123
+line vty 0 4 
+transport input telnet
+login local
